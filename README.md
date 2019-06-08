@@ -9,9 +9,9 @@ Developer : thitigorn pumma (zeroDay, Zero Hacker)
 
 # วิธีติดตั้ง
 
-___
+'''
 apt-get install python -y
 apt-get install git -y
 git clone https://github.com/DedSecCyber/scorpion-scan.git
 pip install request
-___
+,,,
